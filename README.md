@@ -30,27 +30,83 @@ O protótipo do projeto foi desenvolvido utilizando [FIGMA/OUTRA FERRAMENTA].
 
 ### Integrante 1
 
-**Nome:** Nome do aluno
+**Nome:** Pietra Alves
 
 **GitHub:** [@usuario](LINK_DO_GITHUB)
 
 ### Integrante 2
 
-**Nome:** Nome do aluno
+**Nome:** Larissa Stéphany
 
 **GitHub:** [@usuario](LINK_DO_GITHUB)
 
 ### Integrante 3
 
-**Nome:** Nome do aluno
+**Nome:** Rebeca Leal
 
 **GitHub:** [@usuario](LINK_DO_GITHUB)
 
 ### Integrante 4
 
-**Nome:** Nome do aluno
+**Nome:** Bruna Joana
 
 **GitHub:** [@usuario](LINK_DO_GITHUB)
+
+### Integrante 5
+
+**Nome:** Alana
+
+**GitHub:** [@usuario](LINK_DO_GITHUB)
+
+### Integrante 6
+
+**Nome:** Lorena
+
+**GitHub:** [@usuario](LINK_DO_GITHUB)
+
+### Integrante 7
+
+**Nome:** Laura
+
+**GitHub:** [@usuario](LINK_DO_GITHUB)
+
+### Integrante 8
+
+**Nome:** Larissa Fogaça
+
+**GitHub:** [@usuario](LINK_DO_GITHUB)
+
+### Integrante 9
+
+**Nome:** Edson Gabriel
+
+**GitHub:** [@usuario](LINK_DO_GITHUB)
+
+### Integrante 10
+
+**Nome:** Eduardo Henrique
+
+**GitHub:** [@usuario](LINK_DO_GITHUB)
+
+### Integrante 11
+
+**Nome:** Erick Araújo
+
+**GitHub:** [@usuario](LINK_DO_GITHUB)
+
+### Integrante 12
+
+**Nome:** Davi Fonseca
+
+**GitHub:** [@usuario](LINK_DO_GITHUB)
+
+### Integrante 13
+
+**Nome:** Emily
+
+**GitHub:** [@usuario](LINK_DO_GITHUB)
+
+
 
 ## 📂 Estrutura do projeto
 
