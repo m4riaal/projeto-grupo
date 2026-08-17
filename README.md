@@ -22,10 +22,6 @@ O protótipo do projeto foi desenvolvido utilizando [FIGMA/OUTRA FERRAMENTA].
 
 ![Protótipo do projeto](./imagens/prototipo.png)
 
-### Link do protótipo
-
-[🔗 Acessar protótipo](COLOQUE_AQUI_O_LINK)
-
 ## 👥 Integrantes
 
 ### Integrante 1
