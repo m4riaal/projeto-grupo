@@ -1,22 +1,21 @@
-# Nome do Projeto
+# Combat Zone
 
 ## 📌 Sobre o projeto
 
-Este projeto foi desenvolvido pelo nosso grupo para a disciplina de [NOME DA DISCIPLINA].
+Este projeto foi desenvolvido pelo nosso grupo para a disciplina de Desenvolvimento de Sistemas.
 
-O objetivo do projeto é [EXPLIQUE AQUI O QUE O PROJETO FAZ].
+O objetivo do projeto é fazer um jogo no VS Code com ferramentas aprendidas em sala.
 
 ## 💻 Tecnologias utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
-- Git
 - GitHub
 
 ## 🎨 Protótipo
 
-O protótipo do projeto foi desenvolvido utilizando [FIGMA/OUTRA FERRAMENTA].
+O protótipo do projeto foi desenvolvido utilizando HTML, JAVASCRIPT E CSS.
 
 ### Imagem do protótipo
 
