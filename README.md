@@ -26,6 +26,8 @@ O protótipo do projeto foi desenvolvido utilizando HTML, JAVASCRIPT E CSS.
 ### Integrante 1
 
 **Nome:** Pietra Alves
+
+
 **Função:** Programadora
 
 
