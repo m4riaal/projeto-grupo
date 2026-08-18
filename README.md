@@ -26,7 +26,6 @@ O protótipo do projeto foi desenvolvido utilizando HTML, JAVASCRIPT E CSS.
 ### Integrante 1
 
 **Nome:** Pietra Alves
-
 **Função:** Programadora
 
 
@@ -34,7 +33,6 @@ O protótipo do projeto foi desenvolvido utilizando HTML, JAVASCRIPT E CSS.
 ### Integrante 2
 
 **Nome:** Larissa Stéphany
-
 **Função:** Programadora
 
 
